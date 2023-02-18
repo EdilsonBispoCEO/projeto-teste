@@ -48,8 +48,8 @@ namespace projeto_teste
                                  mensagem “O primeiro valor digitado é maior” deve aparecer.Se for
                                  menor, a mensagem “O segundo valor digitado é maior”. Se forem
                                  iguais, a mensagem “Os valores são iguais” deve aparecer.
-                                Aqui temos o formato de SE e SE NÂO, o usuario infor um valor e ele pode ser 
-                                 maior ou menor, e támbem se nem um dos dois pode ser igual. 
+                                Aqui temos o formato de SE e SE NÂO, o usuario informa um valor e ele pode ser 
+                                 maior ou menor, e também se nãofor nenhum dos dois poderá ser igual. 
                                 */
 
 
@@ -79,7 +79,8 @@ namespace projeto_teste
                                   Número digitado foi 5, então:
                                   O dobro de 5 é 10.
                                   A metade de 5 é 2.5.
-                                 Aqui vemos uma unidade de divisão com os valores digitados pelo o usúario
+                                 Aqui vemos uma unidade de divisão com os valores digitados pelo o usúario, 
+                                 e calculando o dobro.
                                */
 
 
